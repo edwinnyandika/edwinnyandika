@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020408,50:0a1520,100:00f5d4&height=200&section=header&text=EDWIN%20NYANDIKA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20\u00b7%20TRADING%20\u00b7%20DESIGN&descSize=14&descAlignY=58&descColor=00f5d4&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020408,50:0a1520,100:00f5d4&height=200&section=header&text=EDWIN%20NYANDIKA&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20·%20TRADING%20·%20DESIGN&descSize=14&descAlignY=58&descColor=00f5d4&animation=fadeIn" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ![](https://img.shields.io/badge/STATUS-BUILDING_IN_PUBLIC-00f5d4?style=flat-square&labelColor=0a1520&color=00f5d4)
 &nbsp;
-![](https://img.shields.io/badge/LOCATION-REMOTE_\ud83c\udfe0-00c4ff?style=flat-square&labelColor=0a1520&color=00c4ff)
+![](https://img.shields.io/badge/LOCATION-REMOTE_🏠-00c4ff?style=flat-square&labelColor=0a1520&color=00c4ff)
 &nbsp;
 ![](https://img.shields.io/badge/ORG-NOETIK_CORE-f5c842?style=flat-square&labelColor=0a1520&color=f5c842)
 &nbsp;
@@ -26,27 +26,27 @@
 
 ---
 
-## \u25c8 About Me
+## ◈ About Me
 
 ```ts
 const edwin: Developer = {
   name      : "Edwin Nyandika",
-  role      : "Software Developer \u00b7 Trader \u00b7 Designer",
+  role      : "Software Developer · Trader · Designer",
   org       : "NOETIK CORE",
   school    : "GoMyCode Software Development Bootcamp",
-  building  : ["Folio \u2014 AI Portfolio App", "Oratore \u2014 AI Speaker Tool"],
+  building  : ["Folio — AI Portfolio App", "Oratore — AI Speaker Tool"],
   poweredBy : ["TypeScript", "React", "Vite", "Gemini API"],
   interests : ["AI Products", "Trading Systems", "Design-led Dev"],
-  workStyle : "Remote \ud83c\udfe0",
-  motto     : "From 'Hello World' to Market Disruptor \u26a1",
+  workStyle : "Remote 🏠",
+  motto     : "From 'Hello World' to Market Disruptor ⚡",
 };
 
-// currently: shipping, learning, and building in public \ud83d\ude80
+// currently: shipping, learning, and building in public 🚀
 ```
 
 ---
 
-## \u25c8 Projects
+## ◈ Projects
 
 <div align="center">
 
@@ -56,7 +56,7 @@ const edwin: Developer = {
 
 <a href="https://github.com/edwinnyandika/Folio">
 
-![Folio](https://img.shields.io/badge/\ud83d\uddc2\ufe0f_FOLIO-00f5d4?style=for-the-badge&labelColor=0a1520)
+![Folio](https://img.shields.io/badge/🗂️_FOLIO-00f5d4?style=for-the-badge&labelColor=0a1520)
 
 </a>
 
@@ -66,14 +66,14 @@ const edwin: Developer = {
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
-![Status](https://img.shields.io/badge/\u25cf_ACTIVE-00f5a0?style=flat-square&labelColor=0a1520)
+![Status](https://img.shields.io/badge/●_ACTIVE-00f5a0?style=flat-square&labelColor=0a1520)
 
 </td>
 <td width="33%" align="center">
 
 <a href="https://github.com/edwinnyandika/oratore">
 
-![Oratore](https://img.shields.io/badge/\ud83c\udf99\ufe0f_ORATORE-00c4ff?style=for-the-badge&labelColor=0a1520)
+![Oratore](https://img.shields.io/badge/🎙️_ORATORE-00c4ff?style=for-the-badge&labelColor=0a1520)
 
 </a>
 
@@ -83,14 +83,14 @@ const edwin: Developer = {
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-![Status](https://img.shields.io/badge/\ud83d\udd28_BUILDING-f5c842?style=flat-square&labelColor=0a1520)
+![Status](https://img.shields.io/badge/🔨_BUILDING-f5c842?style=flat-square&labelColor=0a1520)
 
 </td>
 <td width="33%" align="center">
 
 <a href="https://github.com/edwinnyandika/gomycode-cli-assignment">
 
-![CLI](https://img.shields.io/badge/\ud83d\udcbb_CLI_ASSIGN-f5c842?style=for-the-badge&labelColor=0a1520)
+![CLI](https://img.shields.io/badge/💻_CLI_ASSIGN-f5c842?style=for-the-badge&labelColor=0a1520)
 
 </a>
 
@@ -100,7 +100,7 @@ const edwin: Developer = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-fff?style=flat-square&logo=vercel&logoColor=black)
 
-![Status](https://img.shields.io/badge/\u2713_SHIPPED-4a6070?style=flat-square&labelColor=0a1520)
+![Status](https://img.shields.io/badge/✓_SHIPPED-4a6070?style=flat-square&labelColor=0a1520)
 
 </td>
 </tr>
@@ -110,34 +110,7 @@ const edwin: Developer = {
 
 ---
 
-## \u25c8 Tech Stack
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&  workStyle: "Remote 🏠",
-  motto: "From 'Hello World' to Market Disruptor.",
-};
-```
-
----
-
-## 🚀 Projects
-
-| Project | Description | Stack | Status |
-|--------|-------------|-------|--------|
-| [**Folio**](https://github.com/edwinnyandika/Folio) | AI-powered personal portfolio | TypeScript · React · Gemini API | 🟢 Active |
-| [**Oratore**](https://github.com/edwinnyandika/oratore) | AI speaker/communication tool | TypeScript · Gemini API | 🔨 Building |
-| [**CLI Assignment**](https://github.com/edwinnyandika/gomycode-cli-assignment) | Filesystem mastery via terminal | Git Bash · Termux · HTML | ✅ Done |
-
----
-
-## 🛠️ Tech Stack
+## ◈ Tech Stack
 
 <div align="center">
 
@@ -149,52 +122,91 @@ const edwin: Developer = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=linux&logoColor=a3e635)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## ◈ GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=edwinnyandika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=edwinnyandika&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=edwinnyandika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=8899aa" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=edwinnyandika&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00C4FF&currStreakLabel=00F5D4&sideLabels=8899aa&dates=4a6070" width="49%" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinnyandika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinnyandika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=8899aa&langs_count=6" width="42%" />
 
 </div>
 
 ---
 
-## 🌊 Contribution Graph
+## ◈ Contribution Activity
 
 <div align="center">
 
-[![Edwin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=edwinnyandika&theme=react-dark&hide_border=true&color=00F7FF&line=00F7FF&point=ffffff)](https://github.com/edwinnyandika)
+[![Edwin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edwinnyandika&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5D4&line=00C4FF&point=00F5D4&area=true&area_color=00F5D4)](https://github.com/edwinnyandika)
 
 </div>
 
 ---
 
-## 💡 Currently Learning
-
-- 🧱 Foundations of software architecture
-- 🤖 Building AI-powered apps with Gemini & Claude APIs  
-- 📈 Connecting software systems with trading logic
-- 🎨 Designing products that feel as good as they work
-
----
-
-## 🔗 Connect
+## ◈ Currently Learning
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-edwinnyandika-181717?style=for-the-badge&logo=github)](https://github.com/edwinnyandika)
+| | Focus | Why |
+|---|---|---|
+| 🧱 | Software Architecture | Building systems that scale |
+| 🤖 | AI App Development | Gemini · Claude · LLM tooling |
+| 📈 | Trading + Code | Bridging markets and software |
+| 🎨 | Design-led Engineering | Products that feel as good as they work |
+| ⚡ | CLI & DevOps Foundations | Every serious dev needs the terminal |
+
+</div>
+
+---
+
+## ◈ Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-edwinnyandika-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edwinnyandika)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-_.silenttrendz._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.silenttrendz._)
+&nbsp;
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-edwinfrelaa-f5c842?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/edwinfrelaa)
+
+</div>
+
+---
+
+## ◈ Support My Work
+
+<div align="center">
+
+*If you believe in builders who are just getting started — every coffee fuels the next build.* ☕
+
+<br/>
+
+<a href="https://buymeacoffee.com/edwinfrelaa" target="_blank">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=edwinfrelaa&button_colour=f5c842&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" height="45"/>
+</a>
+
+<br/><br/>
+
+<a href="https://buymeacoffee.com/edwinfrelaa" target="_blank">
+  <img src="qr-code.png" width="160" alt="Scan to support Edwin"/>
+</a>
+
+<br/>
+
+*📲 Scan to support*
 
 </div>
 
@@ -202,8 +214,6 @@ const edwin: Developer = {
 
 <div align="center">
 
-*NOETIK CORE — architecting the foundation of a tech ecosystem.*
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=edwinnyandika.edwinnyandika)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:0a1520,100:020408&height=100&section=footer&fontSize=14&fontColor=4a6070&text=NOETIK+CORE+·+BUILDING+THE+FOUNDATION&fontAlignY=65&animation=fadeIn"/>
 
 </div>
