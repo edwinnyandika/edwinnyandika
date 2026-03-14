@@ -3,25 +3,23 @@
      NOETIK CORE · Software · Trading · Design
      ============================================================ -->
 
-<!-- ██████████████  HERO BANNER  ██████████████ -->
+<!-- ██████████████████████████████████████████████████████████
+     HERO — FULL REDESIGN (4 stacked layers)
+     Layer 1: shark banner  →  text + desc on deep gradient
+     Layer 2: typing SVG    →  rotating taglines
+     Layer 3: badge row     →  live status / visitor count
+     Layer 4: wave divider  →  flows into dark body
+██████████████████████████████████████████████████████████ -->
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:020608,20:051015,50:081c2c,85:0a2535,100:00f5d4&height=340&section=header&text=EDWIN%20NYANDIKA&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20%C2%B7%20TRADING%20%C2%B7%20DESIGN&descSize=18&descColor=00f5d4&descAlignY=57&animation=fadeIn&stroke=00f5d4&strokeWidth=2" />
+</div>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020608,30:061220,60:0a1a28,100:00f5d4&height=300&section=header&text=EDWIN%20NYANDIKA&fontSize=68&fontColor=ffffff&fontAlignY=42&desc=SOFTWARE%20%C2%B7%20TRADING%20%C2%B7%20DESIGN&descSize=16&descColor=00f5d4&descAlignY=63&animation=fadeIn&stroke=00f5d4&strokeWidth=1" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=900&color=00F5D4&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=38&lines=🌐+Architecting+my+tech+ecosystem+from+scratch;🤖+Building+AI-powered+apps+with+Gemini+%26+Claude+APIs;🎓+Student+%40+GoMyCode+Software+Dev+Bootcamp;📈+Trader+by+instinct%2C+Builder+by+choice;⚡+From+'Hello+World'+to+Market+Disruptor)](https://git.io/typing-svg)
 
 </div>
-
-<!-- ██████████████  TYPING ANIMATION  ██████████████ -->
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=900&color=00F5D4&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=40&lines=🌐+Architecting+my+tech+ecosystem+from+scratch;🤖+Building+AI-powered+apps+with+Gemini+API;🎓+Student+%40+GoMyCode+Software+Dev+Bootcamp;📈+Trader+by+instinct%2C+Builder+by+choice;⚡+From+'Hello+World'+to+Market+Disruptor)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
-<!-- ██████████████  STATUS BADGES  ██████████████ -->
 
 <div align="center">
 
@@ -32,6 +30,10 @@
 ![Open](https://img.shields.io/badge/💼_OPEN-For_Client_Work-f5c842?style=flat-square&labelColor=0a1520)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=edwinnyandika.edwinnyandika&left_color=0a1520&right_color=00f5d4&left_text=👁️+Visitors)
 
+</div>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:020608,50:061220,100:0a1520&height=55&section=header&reversal=true" />
 </div>
 
 <br/>
@@ -80,7 +82,7 @@ const edwin: Developer = {
                    "Oratore  — AI Speaker & Comms Tool   🎙️",
                  ],
 
-  poweredBy   :  [ "TypeScript", "React", "Vite", "Gemini API" ],
+  poweredBy   :  [ "TypeScript", "React", "Vite", "Gemini API", "Claude API" ],
   interests   :  [ "AI Products", "Trading Systems", "Design-led Dev" ],
 
   phone       :  "+254 718 616 917",   // 📞 available for client work
@@ -90,14 +92,6 @@ const edwin: Developer = {
 
 // ► currently: shipping, learning & building in public 🚀
 ```
-
-<br/>
-
-<!-- ██████████████  VISUAL SEPARATOR  ██████████████ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1520,100:061220&height=3&section=header" width="100%"/>
-</div>
 
 ---
 
@@ -117,8 +111,6 @@ const edwin: Developer = {
 
 </div>
 
-<br/>
-
 ---
 
 <!-- ██████████████  PROJECTS  ██████████████ -->
@@ -136,7 +128,7 @@ const edwin: Developer = {
 
 **[→ View Repo](https://github.com/edwinnyandika/Folio)**
 
-Built on Google AI Studio using the Gemini API. A fully interactive, intelligent personal portfolio experience that talks back.
+Built on Google AI Studio with the Gemini API. A fully interactive, intelligent portfolio that talks back.
 
 <br/>
 
@@ -158,7 +150,7 @@ Built on Google AI Studio using the Gemini API. A fully interactive, intelligent
 
 **[→ View Repo](https://github.com/edwinnyandika/oratore)**
 
-An AI-powered communication and speaker tool — helping people articulate ideas with confidence and clarity.
+AI-powered communication tool — helping people articulate ideas with confidence and clarity.
 
 <br/>
 
@@ -179,7 +171,7 @@ An AI-powered communication and speaker tool — helping people articulate ideas
 
 **[→ View Repo](https://github.com/edwinnyandika/gomycode-cli-assignment)**
 
-8-page interactive learning platform — CLI, Git, HTML, Code Game, Flashcards, Quiz, Lexicon. Single HTML file, zero dependencies.
+8-page interactive learning platform — CLI, Git, HTML, Code Game, Flashcards, Quiz, Lexicon. One file, zero dependencies.
 
 <br/>
 
@@ -199,17 +191,6 @@ An AI-powered communication and speaker tool — helping people articulate ideas
 
 </div>
 
-<br/>
-
-<!-- ██████████████  PROJECT VISUAL  ██████████████ -->
-
-<div align="center">
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80" width="86%" style="border-radius:8px" alt="Developer building projects — dark code aesthetic" />
-<br/><sub>Building in public · Shipping real products · Learning by doing</sub>
-</div>
-
-<br/>
-
 ---
 
 <!-- ██████████████  TECH STACK  ██████████████ -->
@@ -226,8 +207,6 @@ An AI-powered communication and speaker tool — helping people articulate ideas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<br/>
-
 **Tools & Platforms**
 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -237,15 +216,11 @@ An AI-powered communication and speaker tool — helping people articulate ideas
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br/>
-
 **AI & APIs**
 
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google AI](https://img.shields.io/badge/Google_AI_Studio-EA4335?style=for-the-badge&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_API-cc785c?style=for-the-badge&logoColor=white)
-
-<br/>
 
 **Environment**
 
@@ -254,8 +229,6 @@ An AI-powered communication and speaker tool — helping people articulate ideas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
-
-<br/>
 
 ---
 
@@ -274,8 +247,6 @@ An AI-powered communication and speaker tool — helping people articulate ideas
 
 </div>
 
-<br/>
-
 ---
 
 <!-- ██████████████  ACTIVITY GRAPH  ██████████████ -->
@@ -288,11 +259,9 @@ An AI-powered communication and speaker tool — helping people articulate ideas
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ██████████████  TRADING SECTION  ██████████████ -->
+<!-- ██████████████  TRADING + TECH  ██████████████ -->
 
 ## 📈 Trading + Tech
 
@@ -315,13 +284,6 @@ An AI-powered communication and speaker tool — helping people articulate ideas
 
 </div>
 
-<div align="center">
-<img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=900&q=80" width="86%" alt="Trading and technology convergence" />
-<br/><sub>Trading by instinct · Building by code · Thinking in systems</sub>
-</div>
-
-<br/>
-
 ---
 
 <!-- ██████████████  NOETIK CORE  ██████████████ -->
@@ -340,15 +302,13 @@ An AI-powered communication and speaker tool — helping people articulate ideas
  ██║ ╚████║╚██████╔╝███████╗   ██║   ██║██║  ██╗    ╚██████╗╚██████╔╝██║  ██║███████╗
  ╚═╝  ╚═══╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝╚═╝  ╚═╝    ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
 
-           Architecting a tech ecosystem from the ground up ⚡
-           Software · Trading · Design · AI · Systems Thinking
+        Architecting a tech ecosystem from the ground up ⚡
+        Software · Trading · Design · AI · Systems Thinking
 ```
 
 </td></tr></table>
 
 </div>
-
-<br/>
 
 ---
 
@@ -370,8 +330,6 @@ An AI-powered communication and speaker tool — helping people articulate ideas
 
 </div>
 
-<br/>
-
 ---
 
 <!-- ██████████████  BUY ME A COFFEE  ██████████████ -->
@@ -391,8 +349,7 @@ An AI-powered communication and speaker tool — helping people articulate ideas
 
 <br/><br/>
 
-<!-- QR code generated via QuickChart — no login needed, always renders on GitHub -->
-<img src="https://quickchart.io/qr?text=https%3A%2F%2Fbuymeacoffee.com%2Fedwinfrelaa&dark=00f5d4&light=0a1520&size=180&margin=2&ecLevel=M" width="140" alt="Scan to buy Edwin a coffee — buymeacoffee.com/edwinfrelaa"/>
+<img src="https://quickchart.io/qr?text=https%3A%2F%2Fbuymeacoffee.com%2Fedwinfrelaa&dark=00f5d4&light=0a1520&size=180&margin=2&ecLevel=M" width="140" alt="Scan to buy Edwin a coffee"/>
 
 <br/>
 
@@ -400,14 +357,10 @@ An AI-powered communication and speaker tool — helping people articulate ideas
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ██████████████  FOOTER WAVE  ██████████████ -->
+<!-- ██████████████  FOOTER  ██████████████ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,40:00c4ff,70:0a1520,100:020608&height=120&section=footer&text=NOETIK+CORE&fontSize=20&fontColor=4a6070&fontAlignY=72&desc=architecting+the+foundation+of+a+tech+ecosystem+⚡&descSize=12&descColor=2a4050&descAlignY=88&animation=fadeIn"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,40:00c4ff,70:0a1520,100:020608&height=120&section=footer&text=NOETIK+CORE&fontSize=20&fontColor=4a6070&fontAlignY=72&desc=architecting+the+foundation+of+a+tech+ecosystem+⚡&descSize=12&descColor=2a4050&descAlignY=88&animation=fadeIn"/>
 </div>
