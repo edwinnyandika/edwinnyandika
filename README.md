@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020608,30:061220,60:0a1a28,100:00f5d4&height=280&section=header&text=EDWIN%20NYANDIKA&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=SOFTWARE%20%C2%B7%20TRADING%20%C2%B7%20DESIGN&descSize=15&descColor=00f5d4&descAlignY=62&animation=fadeIn&stroke=00f5d4&strokeWidth=1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020608,30:061220,60:0a1a28,100:00f5d4&height=300&section=header&text=EDWIN%20NYANDIKA&fontSize=68&fontColor=ffffff&fontAlignY=42&desc=SOFTWARE%20%C2%B7%20TRADING%20%C2%B7%20DESIGN&descSize=16&descColor=00f5d4&descAlignY=63&animation=fadeIn&stroke=00f5d4&strokeWidth=1" />
 
 </div>
 
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=900&color=00F5D4&background=00000000&center=true&vCenter=true&multiline=false&width=680&height=38&lines=🌐+Architecting+my+tech+ecosystem+from+scratch;🤖+Building+AI-powered+apps+with+Gemini+API;🎓+Student+%40+GoMyCode+Software+Dev+Bootcamp;📈+Trader+by+instinct%2C+Builder+by+choice;⚡+From+'Hello+World'+to+Market+Disruptor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=900&color=00F5D4&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=40&lines=🌐+Architecting+my+tech+ecosystem+from+scratch;🤖+Building+AI-powered+apps+with+Gemini+API;🎓+Student+%40+GoMyCode+Software+Dev+Bootcamp;📈+Trader+by+instinct%2C+Builder+by+choice;⚡+From+'Hello+World'+to+Market+Disruptor)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,9 +26,10 @@
 <div align="center">
 
 ![Status](https://img.shields.io/badge/⚡_STATUS-Building_In_Public-00f5d4?style=flat-square&labelColor=0a1520)
-![Location](https://img.shields.io/badge/🏠_LOCATION-Remote-00c4ff?style=flat-square&labelColor=0a1520)
+![Location](https://img.shields.io/badge/🏠_BASE-Remote-00c4ff?style=flat-square&labelColor=0a1520)
 ![Org](https://img.shields.io/badge/🌐_ORG-NOETIK_CORE-f5c842?style=flat-square&labelColor=0a1520)
-![School](https://img.shields.io/badge/🎓_SCHOOL-GoMyCode-22c55e?style=flat-square&labelColor=0d1a12)
+![School](https://img.shields.io/badge/🎓_SCHOOL-GoMyCode_2025-22c55e?style=flat-square&labelColor=0d1a12)
+![Open](https://img.shields.io/badge/💼_OPEN-For_Client_Work-f5c842?style=flat-square&labelColor=0a1520)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=edwinnyandika.edwinnyandika&left_color=0a1520&right_color=00f5d4&left_text=👁️+Visitors)
 
 </div>
@@ -82,13 +83,41 @@ const edwin: Developer = {
   poweredBy   :  [ "TypeScript", "React", "Vite", "Gemini API" ],
   interests   :  [ "AI Products", "Trading Systems", "Design-led Dev" ],
 
-  phone       :  "+254 718 616 917",   // 📞 tap to copy
+  phone       :  "+254 718 616 917",   // 📞 available for client work
   motto       :  "From 'Hello World' to Market Disruptor ⚡",
 
 };
 
 // ► currently: shipping, learning & building in public 🚀
 ```
+
+<br/>
+
+<!-- ██████████████  VISUAL SEPARATOR  ██████████████ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a1520,100:061220&height=3&section=header" width="100%"/>
+</div>
+
+---
+
+<!-- ██████████████  CURRENTLY LEARNING  ██████████████ -->
+
+## 💡 Currently Learning
+
+<div align="center">
+
+| | Focus Area | Progress | Why |
+|:---:|:---|:---:|:---|
+| 🧱 | Software Architecture | `████████░░` 80% | Building systems that scale |
+| 🤖 | AI App Dev — Gemini · Claude | `██████░░░░` 65% | Powering intelligent products |
+| 📈 | Trading Systems + Code | `█████░░░░░` 50% | Bridging markets & software |
+| 🎨 | Design-led Engineering | `████████░░` 80% | Products that feel as good as they work |
+| ⚡ | CLI · DevOps · Bash | `██████░░░░` 60% | Every serious dev needs the terminal |
+
+</div>
+
+<br/>
 
 ---
 
@@ -101,55 +130,67 @@ const edwin: Developer = {
 <table>
 <tr>
 
-<td align="center" width="280">
+<td align="center" width="300">
 
-### 🗂️ [FOLIO](https://github.com/edwinnyandika/Folio)
+<img src="https://img.shields.io/badge/🗂️_FOLIO-AI_Portfolio-00f5d4?style=for-the-badge&labelColor=061220" />
 
-**AI-Powered Portfolio**
+**[→ View Repo](https://github.com/edwinnyandika/Folio)**
 
-Built on Google AI Studio using the Gemini API — a fully interactive, intelligent personal portfolio experience.
+Built on Google AI Studio using the Gemini API. A fully interactive, intelligent personal portfolio experience that talks back.
+
+<br/>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
-![](https://img.shields.io/badge/●_ACTIVE-00f5a0?style=flat-square&labelColor=0a1520)
-![](https://img.shields.io/badge/4_commits-grey?style=flat-square&labelColor=0a1520)
+<br/>
+
+![Active](https://img.shields.io/badge/●_ACTIVE-00f5a0?style=flat-square&labelColor=0a1520)
+![Commits](https://img.shields.io/badge/4_commits-4a6070?style=flat-square&labelColor=0a1520)
 
 </td>
 
-<td align="center" width="280">
+<td align="center" width="300">
 
-### 🎙️ [ORATORE](https://github.com/edwinnyandika/oratore)
+<img src="https://img.shields.io/badge/🎙️_ORATORE-AI_Speaker-f5c842?style=for-the-badge&labelColor=061220" />
 
-**AI Speaker Tool**
+**[→ View Repo](https://github.com/edwinnyandika/oratore)**
 
-An AI-powered communication and speaker tool — helping people articulate ideas with confidence.
+An AI-powered communication and speaker tool — helping people articulate ideas with confidence and clarity.
+
+<br/>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-![](https://img.shields.io/badge/🔨_BUILDING-f5c842?style=flat-square&labelColor=0a1520)
-![](https://img.shields.io/badge/1_commit-grey?style=flat-square&labelColor=0a1520)
+<br/>
+
+![Building](https://img.shields.io/badge/🔨_BUILDING-f5c842?style=flat-square&labelColor=0a1520)
+![Commits](https://img.shields.io/badge/1_commit-4a6070?style=flat-square&labelColor=0a1520)
 
 </td>
 
-<td align="center" width="280">
+<td align="center" width="300">
 
-### 💻 [CLI ASSIGN](https://github.com/edwinnyandika/gomycode-cli-assignment)
+<img src="https://img.shields.io/badge/💻_DEVSTART-Learning_Platform-22c55e?style=for-the-badge&labelColor=061220" />
 
-**Filesystem Mastery**
+**[→ View Repo](https://github.com/edwinnyandika/gomycode-cli-assignment)**
 
-Complete CLI filesystem assignment — mastered using Git Bash on Windows & Termux on Android. No GUI. Pure terminal.
+8-page interactive learning platform — CLI, Git, HTML, Code Game, Flashcards, Quiz, Lexicon. Single HTML file, zero dependencies.
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+<br/>
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JS](https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
-![](https://img.shields.io/badge/✓_SHIPPED-4a6070?style=flat-square&labelColor=0a1520)
-![](https://img.shields.io/badge/14_commits-grey?style=flat-square&labelColor=0a1520)
+<br/>
+
+![Shipped](https://img.shields.io/badge/✓_SHIPPED-4a6070?style=flat-square&labelColor=0a1520)
+![Commits](https://img.shields.io/badge/14_commits-4a6070?style=flat-square&labelColor=0a1520)
 
 </td>
 
@@ -157,6 +198,17 @@ Complete CLI filesystem assignment — mastered using Git Bash on Windows & Term
 </table>
 
 </div>
+
+<br/>
+
+<!-- ██████████████  PROJECT VISUAL  ██████████████ -->
+
+<div align="center">
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=900&q=80" width="86%" style="border-radius:8px" alt="Developer building projects — dark code aesthetic" />
+<br/><sub>Building in public · Shipping real products · Learning by doing</sub>
+</div>
+
+<br/>
 
 ---
 
@@ -170,8 +222,11 @@ Complete CLI filesystem assignment — mastered using Git Bash on Windows & Term
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<br/>
 
 **Tools & Platforms**
 
@@ -180,23 +235,31 @@ Complete CLI filesystem assignment — mastered using Git Bash on Windows & Term
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<br/>
 
 **AI & APIs**
 
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google AI](https://img.shields.io/badge/Google_AI_Studio-EA4335?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-cc785c?style=for-the-badge&logoColor=white)
+
+<br/>
 
 **Environment**
 
-![Linux](https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=linux&logoColor=a3e635)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ██████████████  STATS  ██████████████ -->
+<!-- ██████████████  GITHUB STATS  ██████████████ -->
 
 ## 📊 GitHub Stats
 
@@ -205,13 +268,13 @@ Complete CLI filesystem assignment — mastered using Git Bash on Windows & Term
 <img src="https://github-readme-stats.vercel.app/api?username=edwinnyandika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=8899aa&include_all_commits=true&count_private=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=edwinnyandika&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00C4FF&currStreakLabel=00F5D4&sideLabels=8899aa&dates=4a6070" width="49%" />
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinnyandika&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=8899aa&langs_count=6" width="36%" />
 
 </div>
+
+<br/>
 
 ---
 
@@ -225,23 +288,67 @@ Complete CLI filesystem assignment — mastered using Git Bash on Windows & Term
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ██████████████  CURRENTLY LEARNING  ██████████████ -->
+<!-- ██████████████  TRADING SECTION  ██████████████ -->
 
-## 💡 Currently Learning
+## 📈 Trading + Tech
 
 <div align="center">
 
-| | Focus Area | Progress | Why |
-|:---:|:---|:---:|:---|
-| 🧱 | Software Architecture | `████████░░` 75% | Building systems that scale |
-| 🤖 | AI App Dev — Gemini · Claude | `██████░░░░` 65% | Gemini + Claude tooling |
-| 📈 | Trading Systems + Code | `█████░░░░░` 50% | Bridging markets & software |
-| 🎨 | Design-led Engineering | `████████░░` 80% | Products that feel as good as they work |
-| ⚡ | CLI · DevOps · Bash | `██████░░░░` 60% | Every serious dev needs the terminal |
+<table><tr><td align="center" width="100%">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║              MARKETS  ×  CODE  =  EDGE                       ║
+╠══════════════════════════════════════════════════════════════╣
+║  📈 Trader by instinct — reading charts, managing risk       ║
+║  💻 Builder by choice — turning strategy into software       ║
+║  🔁 Goal: systematic trading tools powered by code           ║
+║  ⚡ Every algo starts as a theory. Then becomes a system.    ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+</td></tr></table>
 
 </div>
+
+<div align="center">
+<img src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=900&q=80" width="86%" alt="Trading and technology convergence" />
+<br/><sub>Trading by instinct · Building by code · Thinking in systems</sub>
+</div>
+
+<br/>
+
+---
+
+<!-- ██████████████  NOETIK CORE  ██████████████ -->
+
+## 🌐 NOETIK CORE
+
+<div align="center">
+
+<table><tr><td align="center">
+
+```
+ ███╗   ██╗ ██████╗ ███████╗████████╗██╗██╗  ██╗     ██████╗ ██████╗ ██████╗ ███████╗
+ ████╗  ██║██╔═══██╗██╔════╝╚══██╔══╝██║██║ ██╔╝    ██╔════╝██╔═══██╗██╔══██╗██╔════╝
+ ██╔██╗ ██║██║   ██║█████╗     ██║   ██║█████╔╝     ██║     ██║   ██║██████╔╝█████╗
+ ██║╚██╗██║██║   ██║██╔══╝     ██║   ██║██╔═██╗     ██║     ██║   ██║██╔══██╗██╔══╝
+ ██║ ╚████║╚██████╔╝███████╗   ██║   ██║██║  ██╗    ╚██████╗╚██████╔╝██║  ██║███████╗
+ ╚═╝  ╚═══╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝╚═╝  ╚═╝    ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+
+           Architecting a tech ecosystem from the ground up ⚡
+           Software · Trading · Design · AI · Systems Thinking
+```
+
+</td></tr></table>
+
+</div>
+
+<br/>
 
 ---
 
@@ -257,17 +364,13 @@ Complete CLI filesystem assignment — mastered using Git Bash on Windows & Term
 &nbsp;
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-edwinfrelaa-f5c842?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/edwinfrelaa)
 
+<br/>
+
+📞 **`+254 718 616 917`** &nbsp;·&nbsp; *Available for client work · Tap to select & copy*
+
 </div>
 
 <br/>
-
-<div align="center">
-
-<!-- Phone number — click to copy -->
-
-📞 **`+254 718 616 917`** &nbsp;·&nbsp; *Click number to select & copy · Available for client work*
-
-</div>
 
 ---
 
@@ -277,20 +380,19 @@ Complete CLI filesystem assignment — mastered using Git Bash on Windows & Term
 
 <div align="center">
 
-> *If you believe in builders who are just getting started —*
-> *every coffee fuels the next build. Thank you. 🙏*
+> *Every coffee funds the next build.*
+> *If you believe in builders who are just getting started — thank you. 🙏*
 
 <br/>
 
 <a href="https://buymeacoffee.com/edwinfrelaa" target="_blank">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=edwinfrelaa&button_colour=f5c842&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" height="52"/>
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=☕&slug=edwinfrelaa&button_colour=f5c842&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" height="54"/>
 </a>
 
 <br/><br/>
 
-<a href="https://buymeacoffee.com/edwinfrelaa" target="_blank">
-  <img src="qr-code.png" width="160" alt="Scan to buy Edwin a coffee"/>
-</a>
+<!-- QR code generated via QuickChart — no login needed, always renders on GitHub -->
+<img src="https://quickchart.io/qr?text=https%3A%2F%2Fbuymeacoffee.com%2Fedwinfrelaa&dark=00f5d4&light=0a1520&size=180&margin=2&ecLevel=M" width="140" alt="Scan to buy Edwin a coffee — buymeacoffee.com/edwinfrelaa"/>
 
 <br/>
 
@@ -298,12 +400,14 @@ Complete CLI filesystem assignment — mastered using Git Bash on Windows & Term
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ██████████████  FOOTER  ██████████████ -->
+<!-- ██████████████  FOOTER WAVE  ██████████████ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,40:00c4ff,70:0a1520,100:020608&height=110&section=footer&text=NOETIK+CORE&fontSize=18&fontColor=4a6070&fontAlignY=72&desc=architecting+the+foundation+of+a+tech+ecosystem+⚡&descSize=11&descColor=2a4050&descAlignY=88&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,40:00c4ff,70:0a1520,100:020608&height=120&section=footer&text=NOETIK+CORE&fontSize=20&fontColor=4a6070&fontAlignY=72&desc=architecting+the+foundation+of+a+tech+ecosystem+⚡&descSize=12&descColor=2a4050&descAlignY=88&animation=fadeIn"/>
 
 </div>
