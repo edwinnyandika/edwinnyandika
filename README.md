@@ -1,10 +1,12 @@
 <div align="center">
-<img width="100%" src="header.svg" alt="Edwin Nyandika — NOETIK CORE"/>
+<img width="100%" src="master.svg" alt="Edwin Nyandika — NOETIK CORE GitHub Profile"/>
 </div>
+
+<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=700&height=40&lines=Architecting+my+tech+ecosystem+%F0%9F%8C%90;Building+AI-powered+apps+with+Gemini+%F0%9F%A4%96;Software+Dev+%40+GoMyCode+Bootcamp+%F0%9F%9A%80;Trader+by+instinct%2C+Builder+by+choice+%F0%9F%93%88;From+'Hello+World'+to+Market+Disruptor+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=00F5D4&center=true&vCenter=true&width=700&height=36&lines=Architecting+my+tech+ecosystem+%F0%9F%8C%90;Building+AI-powered+apps+with+Gemini+%F0%9F%A4%96;Student+%40+GoMyCode+Software+Dev+Bootcamp+%F0%9F%8E%93;Trader+by+instinct%2C+Builder+by+choice+%F0%9F%93%88;From+'Hello+World'+to+Market+Disruptor+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,9 +14,86 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/STATUS-BUILDING_IN_PUBLIC-00f5d4?style=flat-square&labelColor=0a1520)
+![Status](https://img.shields.io/badge/STATUS-BUILDING_IN_PUBLIC-00f5d4?style=flat-square&labelColor=0a1520)
 &nbsp;
-![](https://img.shields.io/badge/LOCATION-REMOTE_🏠-00c4ff?style=flat-square&labelColor=0a1520)
+![Location](https://img.shields.io/badge/LOCATION-REMOTE_🏠-00c4ff?style=flat-square&labelColor=0a1520)
+&nbsp;
+![Org](https://img.shields.io/badge/ORG-NOETIK_CORE-f5c842?style=flat-square&labelColor=0a1520)
+&nbsp;
+![School](https://img.shields.io/badge/SCHOOL-GoMyCode-22c55e?style=flat-square&labelColor=0a1520&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeT0iMjAiIGZvbnQtc2l6ZT0iMjAiPvCfjoE8L3RleHQ+PC9zdmc+)
+&nbsp;
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=edwinnyandika.edwinnyandika&left_color=0a1520&right_color=00f5d4&left_text=VISITORS)
+
+</div>
+
+---
+
+## ◈ Live GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=edwinnyandika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=8899aa&ring_color=00F5D4&include_all_commits=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=edwinnyandika&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00C4FF&currStreakLabel=00F5D4&sideLabels=8899aa&dates=4a6070" width="49%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwinnyandika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=8899aa&langs_count=6" width="42%" />
+
+</div>
+
+---
+
+## ◈ Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=edwinnyandika&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5D4&line=00C4FF&point=00F5D4&area=true&area_color=00F5D4)](https://github.com/edwinnyandika)
+
+</div>
+
+---
+
+## ◈ Connect & Support
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-edwinnyandika-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edwinnyandika)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-_.silenttrendz._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.silenttrendz._)
+&nbsp;
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-edwinfrelaa-f5c842?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/edwinfrelaa)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<a href="https://buymeacoffee.com/edwinfrelaa" target="_blank">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=edwinfrelaa&button_colour=f5c842&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" height="48"/>
+</a>
+
+<br/><br/>
+
+<a href="https://buymeacoffee.com/edwinfrelaa" target="_blank">
+  <img src="qr-code.png" width="150" alt="Scan to buy Edwin a coffee — buymeacoffee.com/edwinfrelaa"/>
+</a>
+
+<br/>
+
+*📲 Scan the QR to support*
+
+</div>
+
+---
+
+<div align="center">
+
+*NOETIK CORE — architecting the foundation of a tech ecosystem ⚡*
+
+</div>
 &nbsp;
 ![](https://img.shields.io/badge/ORG-NOETIK_CORE-f5c842?style=flat-square&labelColor=0a1520)
 &nbsp;
