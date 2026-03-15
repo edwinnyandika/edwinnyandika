@@ -4,15 +4,12 @@
      ============================================================ -->
 
 <!-- ██████████████████████████████████████████████████████████
-     HERO — 4 stacked layers
-     Layer 1: shark banner
-     Layer 2: typing SVG
-     Layer 3: badge row
-     Layer 4: wave divider
+     HERO — Custom SVG: Cinematic dark with geometric orb,
+     constellation nodes, animated circuit lines, live pulse
 ██████████████████████████████████████████████████████████ -->
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:020608,20:051015,50:081c2c,85:0a2535,100:00f5d4&height=340&section=header&text=EDWIN%20NYANDIKA&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20%C2%B7%20TRADING%20%C2%B7%20DESIGN&descSize=18&descColor=00f5d4&descAlignY=57&animation=fadeIn&stroke=00f5d4&strokeWidth=2" />
+<img width="100%" src="hero.svg" alt="Edwin Nyandika — NOETIK CORE · Software · Trading · Design"/>
 </div>
 
 <div align="center">
@@ -30,10 +27,6 @@
 ![Open](https://img.shields.io/badge/💼_OPEN-For_Client_Work-f5c842?style=flat-square&labelColor=0a1520)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=edwinnyandika.edwinnyandika&left_color=0a1520&right_color=00f5d4&left_text=👁️+Visitors)
 
-</div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:020608,50:061220,100:0a1520&height=55&section=header&reversal=true" />
 </div>
 
 <br/>
@@ -352,10 +345,11 @@ Zero GUI. Pure Terminal.
 
 ---
 
-<!-- ██████████████  FOOTER  ██████████████ -->
+<!-- ██████████████  FOOTER  ██████████████
+     Custom SVG: constellation map, triple-color line,
+     circuit nodes, pulsing center dot, NOETIK CORE
+████████████████████████████████████████ -->
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0a1520,50:061220,100:020608&height=120&section=footer&text=NOETIK+CORE&fontSize=22&fontColor=00f5d4&fontAlignY=55&desc=architecting+the+foundation+of+a+tech+ecosystem+⚡&descSize=12&descColor=4a6070&descAlignY=78&animation=fadeIn&reversal=true"/>
-
+<img width="100%" src="footer.svg" alt="NOETIK CORE — architecting the foundation of a tech ecosystem"/>
 </div>
