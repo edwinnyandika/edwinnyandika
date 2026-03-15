@@ -3,9 +3,13 @@
      NOETIK CORE · Software · Trading · Design
      ============================================================ -->
 
-<!-- ╔══════════════════════════════════════════════════════════╗
-     ║                    HERO  SECTION                        ║
-     ╚══════════════════════════════════════════════════════════╝ -->
+<!-- ██████████████████████████████████████████████████████████
+     HERO — 4 stacked layers
+     Layer 1: shark banner
+     Layer 2: typing SVG
+     Layer 3: badge row
+     Layer 4: wave divider
+██████████████████████████████████████████████████████████ -->
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:020608,20:051015,50:081c2c,85:0a2535,100:00f5d4&height=340&section=header&text=EDWIN%20NYANDIKA&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20%C2%B7%20TRADING%20%C2%B7%20DESIGN&descSize=18&descColor=00f5d4&descAlignY=57&animation=fadeIn&stroke=00f5d4&strokeWidth=2" />
@@ -36,67 +40,49 @@
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════╗
-     ║               I BUILD  ___  (WORD SCROLL)               ║
-     ║   Inspired by scroll-driven word cycling UX pattern     ║
-     ╚══════════════════════════════════════════════════════════╝ -->
+<!-- ██████████████████████████████████████████████████████████
+     WORD SCROLL — "I build ___"
+     Animated SVG: 18 words cycling with oklch color spectrum,
+     sliding underline, scroll-position dot tracker, fade masks.
+     Faithfully implements the CSS scroll-driven animation pattern
+     as a self-contained SVG animation.
+██████████████████████████████████████████████████████████ -->
 
 <div align="center">
-
-### I build&nbsp;
-
-| | |
-|:---:|:---|
-| 🟢 | **`products.`** |
-| 🔵 | **`platforms.`** |
-| 🟣 | **`web applications.`** |
-| 🟡 | **`AI-powered interfaces.`** |
-| 🔴 | **`design systems.`** |
-| 🟠 | **`API integrations.`** |
-| 🟢 | **`backend services.`** |
-| 🔵 | **`intelligent tools.`** |
-| 🟣 | **`scalable software.`** |
-| 🟡 | **`technical foundations.`** |
-
-> *Scroll through my builds below ↓*
-
+<img width="100%" src="word-scroll.svg" alt="I build products, platforms, web applications, interfaces, design systems, API platforms, backend services, distributed systems, data architectures, automation pipelines, infrastructure, developer tooling, performance systems, AI-powered tools, secure systems, resilient architectures, scalable software, technical foundations."/>
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════╗
-     ║                  GOMYCODE  BANNER                       ║
-     ╚══════════════════════════════════════════════════════════╝ -->
+<!-- ██████████████  GOMYCODE BANNER  ██████████████ -->
 
 <div align="center">
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
-║    ██████╗  ██████╗ ███╗   ███╗██╗   ██╗ ██████╗ ██████╗ ██████╗ ███████╗║
-║   ██╔════╝ ██╔═══██╗████╗ ████║╚██╗ ██╔╝██╔════╝██╔═══██╗██╔══██╗██╔════╝║
-║   ██║  ███╗██║   ██║██╔████╔██║ ╚████╔╝ ██║     ██║   ██║██║  ██║█████╗  ║
-║   ██║   ██║██║   ██║██║╚██╔╝██║  ╚██╔╝  ██║     ██║   ██║██║  ██║██╔══╝  ║
-║   ╚██████╔╝╚██████╔╝██║ ╚═╝ ██║   ██║   ╚██████╗╚██████╔╝██████╔╝███████╗║
-║    ╚═════╝  ╚═════╝ ╚═╝     ╚═╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝║
+║   ██████╗  ██████╗ ███╗   ███╗██╗   ██╗ ██████╗ ██████╗ ██████╗ ███████╗ ║
+║  ██╔════╝ ██╔═══██╗████╗ ████║╚██╗ ██╔╝██╔════╝██╔═══██╗██╔══██╗██╔════╝ ║
+║  ██║  ███╗██║   ██║██╔████╔██║ ╚████╔╝ ██║     ██║   ██║██║  ██║█████╗   ║
+║  ██║   ██║██║   ██║██║╚██╔╝██║  ╚██╔╝  ██║     ██║   ██║██║  ██║██╔══╝   ║
+║  ╚██████╔╝╚██████╔╝██║ ╚═╝ ██║   ██║   ╚██████╗╚██████╔╝██████╔╝███████╗ ║
+║   ╚═════╝  ╚═════╝ ╚═╝     ╚═╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝ ║
 ║                                                                           ║
-║         🎓  Software Development Bootcamp  ·  Class of 2025              ║
-║         ⚡  From CLI to Cloud · From Hello World to AI Applications       ║
+║        🎓  Software Development Bootcamp  ·  Class of 2025               ║
+║        ⚡  From CLI to Cloud · From Hello World to AI Applications        ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-![GoMyCode](https://img.shields.io/badge/🎓_Currently_Enrolled-GoMyCode_Bootcamp-22c55e?style=for-the-badge&labelColor=0d1a12)
-![Year](https://img.shields.io/badge/📅_Year-2025-22c55e?style=flat-square&labelColor=0d1a12)
+![GoMyCode](https://img.shields.io/badge/🎓_Enrolled-GoMyCode_Bootcamp-22c55e?style=for-the-badge&labelColor=0d1a12)
 ![Track](https://img.shields.io/badge/💻_Track-Software_Development-22c55e?style=flat-square&labelColor=0d1a12)
+![Year](https://img.shields.io/badge/📅_Class-2025-22c55e?style=flat-square&labelColor=0d1a12)
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════╗
-     ║                    ABOUT  ME                            ║
-     ╚══════════════════════════════════════════════════════════╝ -->
+<!-- ██████████████  ABOUT ME  ██████████████ -->
 
 ## 🧠 `about.ts`
 
@@ -127,9 +113,7 @@ const edwin: Developer = {
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════╗
-     ║                     PROJECTS                            ║
-     ╚══════════════════════════════════════════════════════════╝ -->
+<!-- ██████████████  PROJECTS  ██████████████ -->
 
 ## 🚀 Projects
 
@@ -139,14 +123,14 @@ const edwin: Developer = {
 <tr>
 <td align="center" width="270">
 
-<img src="https://img.shields.io/badge/─────────────────-0a1520?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━-0a1520?style=for-the-badge"/>
 
 ### 🗂️ [FOLIO](https://github.com/edwinnyandika/Folio)
 
 ```
 AI-Powered Portfolio
-Built on Google AI Studio
-Powered by Gemini API
+Google AI Studio
+Gemini API
 ```
 
 ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -154,22 +138,22 @@ Powered by Gemini API
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 
-![](https://img.shields.io/badge/●_LIVE-00f5a0?style=flat-square&labelColor=061a10)
+![](https://img.shields.io/badge/●_ACTIVE-00f5a0?style=flat-square&labelColor=061a10)
 ![](https://img.shields.io/badge/4_commits-555?style=flat-square&labelColor=0a1520)
 
-<img src="https://img.shields.io/badge/─────────────────-0a1520?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━-0a1520?style=for-the-badge"/>
 
 </td>
 <td align="center" width="270">
 
-<img src="https://img.shields.io/badge/─────────────────-0a1520?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━-0a1520?style=for-the-badge"/>
 
 ### 🎙️ [ORATORE](https://github.com/edwinnyandika/oratore)
 
 ```
 AI Speaker & Comms Tool
-Helps articulate ideas
-With confidence & clarity
+Articulate with confidence
+Powered by Gemini
 ```
 
 ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -179,12 +163,12 @@ With confidence & clarity
 ![](https://img.shields.io/badge/🔨_BUILDING-f5c842?style=flat-square&labelColor=1a1200)
 ![](https://img.shields.io/badge/1_commit-555?style=flat-square&labelColor=0a1520)
 
-<img src="https://img.shields.io/badge/─────────────────-0a1520?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━-0a1520?style=for-the-badge"/>
 
 </td>
 <td align="center" width="270">
 
-<img src="https://img.shields.io/badge/─────────────────-0a1520?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━-0a1520?style=for-the-badge"/>
 
 ### 💻 [CLI ASSIGN](https://github.com/edwinnyandika/gomycode-cli-assignment)
 
@@ -201,7 +185,7 @@ Zero GUI. Pure Terminal.
 ![](https://img.shields.io/badge/✓_SHIPPED-4a6070?style=flat-square&labelColor=0a1520)
 ![](https://img.shields.io/badge/14_commits-555?style=flat-square&labelColor=0a1520)
 
-<img src="https://img.shields.io/badge/─────────────────-0a1520?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━-0a1520?style=for-the-badge"/>
 
 </td>
 </tr>
@@ -211,31 +195,23 @@ Zero GUI. Pure Terminal.
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════╗
-     ║                   TECH  STACK                           ║
-     ╚══════════════════════════════════════════════════════════╝ -->
+<!-- ██████████████  TECH STACK  ██████████████ -->
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 ```
-╭─────────────────────────────────────────────────────────╮
-│                   LANGUAGES & FRAMEWORKS                 │
-╰─────────────────────────────────────────────────────────╯
+╭──────────────────── LANGUAGES & FRAMEWORKS ─────────────────╮
 ```
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ```
-╭─────────────────────────────────────────────────────────╮
-│                   TOOLS & PLATFORMS                      │
-╰─────────────────────────────────────────────────────────╯
+╭──────────────────────── TOOLS & PLATFORMS ──────────────────╮
 ```
-
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -244,21 +220,15 @@ Zero GUI. Pure Terminal.
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ```
-╭─────────────────────────────────────────────────────────╮
-│                      AI  &  APIS                         │
-╰─────────────────────────────────────────────────────────╯
+╭──────────────────────────── AI & APIS ──────────────────────╮
 ```
-
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-D97706?style=for-the-badge&logoColor=white)
 ![Google AI](https://img.shields.io/badge/Google_AI_Studio-EA4335?style=for-the-badge&logo=google&logoColor=white)
 
 ```
-╭─────────────────────────────────────────────────────────╮
-│                     ENVIRONMENT                          │
-╰─────────────────────────────────────────────────────────╯
+╭────────────────────────────── ENV ──────────────────────────╮
 ```
-
 ![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=linux&logoColor=a3e635)
 
@@ -266,9 +236,7 @@ Zero GUI. Pure Terminal.
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════╗
-     ║                  GITHUB  STATS                          ║
-     ╚══════════════════════════════════════════════════════════╝ -->
+<!-- ██████████████  GITHUB STATS  ██████████████ -->
 
 ## 📊 GitHub Stats
 
@@ -287,9 +255,7 @@ Zero GUI. Pure Terminal.
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════╗
-     ║               CONTRIBUTION  ACTIVITY                    ║
-     ╚══════════════════════════════════════════════════════════╝ -->
+<!-- ██████████████  ACTIVITY GRAPH  ██████████████ -->
 
 ## 🌊 Contribution Activity
 
@@ -301,21 +267,13 @@ Zero GUI. Pure Terminal.
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════╗
-     ║            CURRENTLY  LEARNING  (Word Scroll)           ║
-     ║   Each row = one "word" in the scroll. As you read      ║
-     ║   down the page it feels like cycling through skills.   ║
-     ╚══════════════════════════════════════════════════════════╝ -->
+<!-- ██████████████  CURRENTLY LEARNING  ██████████████ -->
 
 ## 💡 Currently Learning
 
 <div align="center">
 
-```
-  I am learning ──────────────────────────────────────────
-```
-
-| ◈ | Skill | Progress | Notes |
+| | Focus Area | Progress | Why |
 |:---:|:---|:---:|:---|
 | 🧱 | **`software architecture.`** | `████████░░` 80% | Systems that scale |
 | 🤖 | **`AI app development.`** | `██████░░░░` 65% | Gemini · Claude · LLMs |
@@ -323,20 +281,12 @@ Zero GUI. Pure Terminal.
 | 🎨 | **`design-led engineering.`** | `████████░░` 80% | Feels as good as it works |
 | ⚡ | **`CLI · DevOps · Bash.`** | `██████░░░░` 60% | Terminal mastery |
 | 🌐 | **`full-stack foundations.`** | `███████░░░` 70% | End-to-end thinking |
-| 🔒 | **`secure systems.`** | `████░░░░░░` 40% | Safety by design |
-| 🚀 | **`scalable software.`** | `█████░░░░░` 55% | Built to grow |
-
-```
-  ────────────────────────────────────────── still building →
-```
 
 </div>
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════╗
-     ║                     CONNECT                             ║
-     ╚══════════════════════════════════════════════════════════╝ -->
+<!-- ██████████████  CONNECT  ██████████████ -->
 
 ## 🔗 Connect
 
@@ -356,8 +306,8 @@ Zero GUI. Pure Terminal.
 
 ```
 ╭──────────────────────────────────────────────────────────╮
-│  📞  +254 718 616 917  ·  Available for client work      │
-│  Click the number above to select and copy               │
+│   📞  +254 718 616 917  ·  Available for client work     │
+│   Click number to select and copy                        │
 ╰──────────────────────────────────────────────────────────╯
 ```
 
@@ -367,9 +317,7 @@ Zero GUI. Pure Terminal.
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════╗
-     ║                BUY  ME  A  COFFEE                                  ║
-     ╚══════════════════════════════════════════════════════════╝ -->
+<!-- ██████████████  BUY ME A COFFEE  ██████████████ -->
 
 ## ☕ Support My Work
 
@@ -404,18 +352,10 @@ Zero GUI. Pure Terminal.
 
 ---
 
-<!-- ╔══════════════════════════════════════════════════════════╗
-     ║                     FOOTER                              ║
-     ╚══════════════════════════════════════════════════════════╝ -->
+<!-- ██████████████  FOOTER  ██████████████ -->
 
 <div align="center">
 
-```
-  ────────────────── NOETIK CORE ──────────────────
-  architecting the foundation of a tech ecosystem ⚡
-  ─────────────────────────────────────────────────
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0a1520,50:061220,100:020608&height=120&section=footer&text=NOETIK+CORE&fontSize=22&fontColor=00f5d4&fontAlignY=55&desc=architecting+the+foundation+of+a+tech+ecosystem&descSize=12&descColor=4a6070&descAlignY=78&animation=fadeIn&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:0a1520,50:061220,100:020608&height=120&section=footer&text=NOETIK+CORE&fontSize=22&fontColor=00f5d4&fontAlignY=55&desc=architecting+the+foundation+of+a+tech+ecosystem+⚡&descSize=12&descColor=4a6070&descAlignY=78&animation=fadeIn&reversal=true"/>
 
 </div>
