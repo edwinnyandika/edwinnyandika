@@ -328,7 +328,7 @@ Zero GUI. Pure Terminal.
 ```
 
 <a href="https://buymeacoffee.com/edwinfrelaa" target="_blank">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=edwinfrelaa&button_colour=f5c842&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" height="52"/>
+  <img src="buymeacoffee.png"/>
 </a>
 
 <br/><br/>
