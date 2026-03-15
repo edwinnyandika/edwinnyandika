@@ -1,0 +1,280 @@
+<svg width="860" height="420" viewBox="0 0 860 420" xmlns="http://www.w3.org/2000/svg">
+<defs>
+
+  <!-- Background -->
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1" gradientUnits="objectBoundingBox">
+    <stop offset="0%" stop-color="#020608"/>
+    <stop offset="100%" stop-color="#060d16"/>
+  </linearGradient>
+
+  <!-- Top/bottom fade masks -->
+  <linearGradient id="fadeTop" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%"   stop-color="#020608" stop-opacity="1"/>
+    <stop offset="100%" stop-color="#020608" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="fadeBot" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%"   stop-color="#020608" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#020608" stop-opacity="1"/>
+  </linearGradient>
+
+  <!-- Glow filter -->
+  <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
+    <feGaussianBlur stdDeviation="4" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+
+  <!-- Clip to card -->
+  <clipPath id="card">
+    <rect width="860" height="420" rx="14"/>
+  </clipPath>
+
+</defs>
+
+<g clip-path="url(#card)">
+
+<!-- ── BG ── -->
+<rect width="860" height="420" fill="url(#bg)"/>
+
+<!-- Grid lines -->
+<g stroke="#00f5d4" stroke-width="0.3" opacity="0.05">
+  <line x1="0" y1="84"  x2="860" y2="84"/>
+  <line x1="0" y1="168" x2="860" y2="168"/>
+  <line x1="0" y1="252" x2="860" y2="252"/>
+  <line x1="0" y1="336" x2="860" y2="336"/>
+  <line x1="172" y1="0" x2="172" y2="420"/>
+  <line x1="344" y1="0" x2="344" y2="420"/>
+  <line x1="516" y1="0" x2="516" y2="420"/>
+  <line x1="688" y1="0" x2="688" y2="420"/>
+</g>
+
+<!-- ── STICKY LABEL "I build" ── -->
+<text x="80" y="224"
+  font-family="'Georgia',serif"
+  font-size="54"
+  font-style="italic"
+  font-weight="400"
+  fill="#e8f4f8"
+  opacity="0.92"
+  text-anchor="start">I build
+</text>
+
+<!-- ── VERTICAL SEPARATOR ── -->
+<line x1="272" y1="40" x2="272" y2="380" stroke="#0e2030" stroke-width="1"/>
+
+<!-- ── CYCLING WORDS ──
+     18 words, each visible for ~2.2s → total cycle = 18×2.2 = ~39.6s
+     Each word: fadeIn 0.3s, hold, fadeOut 0.3s
+     offset = index × (39.6/18) = index × 2.2s
+-->
+
+<!-- Word timing: dur=39.6s, each word on for 2.2s window -->
+<!-- We use animateTransform to slide the list + animate opacity per word -->
+
+<!-- Approach: single <text> per word, each with its own animate timing -->
+
+<!-- Word 1: products. — hue≈25 oklch(72% 0.28 25) ≈ #e8884a -->
+<text id="w1" x="298" y="224" font-family="'Arial Black',sans-serif" font-size="52" font-weight="900" letter-spacing="1" fill="#e8884a" opacity="0" filter="url(#glow)">
+  products.
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.001;0.02;0.073;0.09;1" dur="39.6s" repeatCount="indefinite"/>
+</text>
+
+<!-- Word 2: platforms. — hue≈32 ≈ #e89c38 -->
+<text id="w2" x="298" y="224" font-family="'Arial Black',sans-serif" font-size="52" font-weight="900" letter-spacing="1" fill="#e0a030" opacity="0" filter="url(#glow)">
+  platforms.
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.056;0.075;0.128;0.145;1" dur="39.6s" repeatCount="indefinite"/>
+</text>
+
+<!-- Word 3: web applications. — hue≈40 ≈ #d4b020 -->
+<text id="w3" x="298" y="224" font-family="'Arial Black',sans-serif" font-size="44" font-weight="900" letter-spacing="1" fill="#d4b820" opacity="0" filter="url(#glow)">
+  web apps.
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.111;0.13;0.183;0.2;1" dur="39.6s" repeatCount="indefinite"/>
+</text>
+
+<!-- Word 4: interfaces. — hue≈55 ≈ #b8cc18 -->
+<text id="w4" x="298" y="224" font-family="'Arial Black',sans-serif" font-size="52" font-weight="900" letter-spacing="1" fill="#b8d018" opacity="0" filter="url(#glow)">
+  interfaces.
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.166;0.185;0.238;0.255;1" dur="39.6s" repeatCount="indefinite"/>
+</text>
+
+<!-- Word 5: design systems. — hue≈70 ≈ #88dd18 -->
+<text id="w5" x="298" y="224" font-family="'Arial Black',sans-serif" font-size="46" font-weight="900" letter-spacing="1" fill="#88dd18" opacity="0" filter="url(#glow)">
+  design systems.
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.221;0.24;0.293;0.31;1" dur="39.6s" repeatCount="indefinite"/>
+</text>
+
+<!-- Word 6: API platforms. — hue≈90 ≈ #44e030 -->
+<text id="w6" x="298" y="224" font-family="'Arial Black',sans-serif" font-size="50" font-weight="900" letter-spacing="1" fill="#44e030" opacity="0" filter="url(#glow)">
+  API platforms.
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.276;0.295;0.348;0.365;1" dur="39.6s" repeatCount="indefinite"/>
+</text>
+
+<!-- Word 7: backend services. — hue≈110 ≈ #20d858 -->
+<text id="w7" x="298" y="224" font-family="'Arial Black',sans-serif" font-size="44" font-weight="900" letter-spacing="1" fill="#20d858" opacity="0" filter="url(#glow)">
+  backend services.
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.331;0.35;0.403;0.42;1" dur="39.6s" repeatCount="indefinite"/>
+</text>
+
+<!-- Word 8: distributed systems. — hue≈140 ≈ #18cc88 -->
+<text id="w8" x="298" y="224" font-family="'Arial Black',sans-serif" font-size="42" font-weight="900" letter-spacing="1" fill="#18cc88" opacity="0" filter="url(#glow)">
+  dist. systems.
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.386;0.405;0.458;0.475;1" dur="39.6s" repeatCount="indefinite"/>
+</text>
+
+<!-- Word 9: data architectures. — hue≈170 ≈ #10c4b0 -->
+<text id="w9" x="298" y="224" font-family="'Arial Black',sans-serif" font-size="44" font-weight="900" letter-spacing="1" fill="#10c8b8" opacity="0" filter="url(#glow)">
+  data layers.
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.441;0.46;0.513;0.53;1" dur="39.6s" repeatCount="indefinite"/>
+</text>
+
+<!-- Word 10: automation pipelines. — hue≈195 ≈ #00c4d8 -->
+<text id="w10" x="298" y="224" font-family="'Arial Black',sans-serif" font-size="42" font-weight="900" letter-spacing="1" fill="#00c4d8" opacity="0" filter="url(#glow)">
+  automation.
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.496;0.515;0.568;0.585;1" dur="39.6s" repeatCount="indefinite"/>
+</text>
+
+<!-- Word 11: infrastructure. — hue≈210 ≈ #00b8f8 -->
+<text id="w11" x="298" y="224" font-family="'Arial Black',sans-serif" font-size="50" font-weight="900" letter-spacing="1" fill="#00b8f8" opacity="0" filter="url(#glow)">
+  infrastructure.
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.551;0.57;0.623;0.64;1" dur="39.6s" repeatCount="indefinite"/>
+</text>
+
+<!-- Word 12: developer tooling. — hue≈225 ≈ #2298f8 -->
+<text id="w12" x="298" y="224" font-family="'Arial Black',sans-serif" font-size="46" font-weight="900" letter-spacing="1" fill="#2298f8" opacity="0" filter="url(#glow)">
+  dev tooling.
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.606;0.625;0.678;0.695;1" dur="39.6s" repeatCount="indefinite"/>
+</text>
+
+<!-- Word 13: performance systems. — hue≈245 ≈ #5578f0 -->
+<text id="w13" x="298" y="224" font-family="'Arial Black',sans-serif" font-size="44" font-weight="900" letter-spacing="1" fill="#5578f0" opacity="0" filter="url(#glow)">
+  perf. systems.
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.661;0.68;0.733;0.75;1" dur="39.6s" repeatCount="indefinite"/>
+</text>
+
+<!-- Word 14: AI-powered tools. — hue≈265 ≈ #8858e8 -->
+<text id="w14" x="298" y="224" font-family="'Arial Black',sans-serif" font-size="50" font-weight="900" letter-spacing="1" fill="#8858e8" opacity="0" filter="url(#glow)">
+  AI-powered tools.
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.716;0.735;0.788;0.805;1" dur="39.6s" repeatCount="indefinite"/>
+</text>
+
+<!-- Word 15: secure systems. — hue≈285 ≈ #b040d8 -->
+<text id="w15" x="298" y="224" font-family="'Arial Black',sans-serif" font-size="50" font-weight="900" letter-spacing="1" fill="#b040d8" opacity="0" filter="url(#glow)">
+  secure systems.
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.771;0.79;0.843;0.86;1" dur="39.6s" repeatCount="indefinite"/>
+</text>
+
+<!-- Word 16: resilient architectures. — hue≈305 ≈ #d030a8 -->
+<text id="w16" x="298" y="224" font-family="'Arial Black',sans-serif" font-size="42" font-weight="900" letter-spacing="1" fill="#d030a8" opacity="0" filter="url(#glow)">
+  resilient arch.
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.826;0.845;0.898;0.915;1" dur="39.6s" repeatCount="indefinite"/>
+</text>
+
+<!-- Word 17: scalable software. — hue≈330 ≈ #e02878 -->
+<text id="w17" x="298" y="224" font-family="'Arial Black',sans-serif" font-size="50" font-weight="900" letter-spacing="1" fill="#e02878" opacity="0" filter="url(#glow)">
+  scalable software.
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.881;0.9;0.953;0.97;1" dur="39.6s" repeatCount="indefinite"/>
+</text>
+
+<!-- Word 18: technical foundations. — hue≈355 ≈ #e83040 -->
+<text id="w18" x="298" y="224" font-family="'Arial Black',sans-serif" font-size="44" font-weight="900" letter-spacing="1" fill="#e83040" opacity="0" filter="url(#glow)">
+  foundations.
+  <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.936;0.955;1;1;1" dur="39.6s" repeatCount="indefinite"/>
+</text>
+
+<!-- ── ACTIVE WORD UNDERLINE ── matches color cycling -->
+<rect x="298" y="234" width="500" height="2" rx="1" opacity="0.4">
+  <animate attributeName="fill" 
+    values="#e8884a;#e0a030;#d4b820;#b8d018;#88dd18;#44e030;#20d858;#18cc88;#10c8b8;#00c4d8;#00b8f8;#2298f8;#5578f0;#8858e8;#b040d8;#d030a8;#e02878;#e83040;#e8884a"
+    keyTimes="0;0.056;0.111;0.166;0.221;0.276;0.331;0.386;0.441;0.496;0.551;0.606;0.661;0.716;0.771;0.826;0.881;0.936;1"
+    dur="39.6s" repeatCount="indefinite"/>
+  <animate attributeName="width"
+    values="160;172;148;176;240;210;260;210;180;180;230;186;200;284;244;222;296;196;160"
+    keyTimes="0;0.056;0.111;0.166;0.221;0.276;0.331;0.386;0.441;0.496;0.551;0.606;0.661;0.716;0.771;0.826;0.881;0.936;1"
+    dur="39.6s" repeatCount="indefinite"/>
+</rect>
+
+<!-- ── SCROLL INDICATOR DOTS (right side) ── -->
+<g transform="translate(830, 80)">
+  <!-- 18 dots, current one highlighted -->
+  <circle cy="0"   r="3" fill="#333"/>
+  <circle cy="18"  r="3" fill="#333"/>
+  <circle cy="36"  r="3" fill="#333"/>
+  <circle cy="54"  r="3" fill="#333"/>
+  <circle cy="72"  r="3" fill="#333"/>
+  <circle cy="90"  r="3" fill="#333"/>
+  <circle cy="108" r="3" fill="#333"/>
+  <circle cy="126" r="3" fill="#333"/>
+  <circle cy="144" r="3" fill="#333"/>
+  <circle cy="162" r="3" fill="#333"/>
+  <circle cy="180" r="3" fill="#333"/>
+  <circle cy="198" r="3" fill="#333"/>
+  <circle cy="216" r="3" fill="#333"/>
+  <circle cy="234" r="3" fill="#333"/>
+  <circle cy="252" r="3" fill="#333"/>
+  <circle cy="270" r="3" fill="#333"/>
+  <circle cy="288" r="3" fill="#333"/>
+  <circle cy="306" r="3" fill="#333"/>
+
+  <!-- Active dot travels down -->
+  <circle r="4" fill="#e8884a" opacity="0.9">
+    <animate attributeName="cy"
+      values="0;18;36;54;72;90;108;126;144;162;180;198;216;234;252;270;288;306;0"
+      keyTimes="0;0.056;0.111;0.166;0.221;0.276;0.331;0.386;0.441;0.496;0.551;0.606;0.661;0.716;0.771;0.826;0.881;0.936;1"
+      dur="39.6s" repeatCount="indefinite" calcMode="discrete"/>
+    <animate attributeName="fill"
+      values="#e8884a;#e0a030;#d4b820;#b8d018;#88dd18;#44e030;#20d858;#18cc88;#10c8b8;#00c4d8;#00b8f8;#2298f8;#5578f0;#8858e8;#b040d8;#d030a8;#e02878;#e83040;#e8884a"
+      keyTimes="0;0.056;0.111;0.166;0.221;0.276;0.331;0.386;0.441;0.496;0.551;0.606;0.661;0.716;0.771;0.826;0.881;0.936;1"
+      dur="39.6s" repeatCount="indefinite" calcMode="discrete"/>
+  </circle>
+</g>
+
+<!-- ── COUNTER (word index / total) ── -->
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#1e3040" letter-spacing="2">
+  <tspan id="counter">01</tspan>
+  <tspan fill="#0e2030"> / 18</tspan>
+</text>
+
+<!-- cycling counter text -->
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" letter-spacing="2">
+  <animate attributeName="opacity" values="1" dur="39.6s" repeatCount="indefinite"/>
+  <!-- We layer individual counter states -->
+</text>
+
+<!-- Individual counter labels -->
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#2a4050" letter-spacing="2" opacity="0">01 / 18<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.001;0.055;0.056;1" dur="39.6s" repeatCount="indefinite"/></text>
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#2a4050" letter-spacing="2" opacity="0">02 / 18<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.056;0.075;0.110;0.111;1" dur="39.6s" repeatCount="indefinite"/></text>
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#2a4050" letter-spacing="2" opacity="0">03 / 18<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.111;0.130;0.165;0.166;1" dur="39.6s" repeatCount="indefinite"/></text>
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#2a4050" letter-spacing="2" opacity="0">04 / 18<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.166;0.185;0.220;0.221;1" dur="39.6s" repeatCount="indefinite"/></text>
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#2a4050" letter-spacing="2" opacity="0">05 / 18<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.221;0.240;0.275;0.276;1" dur="39.6s" repeatCount="indefinite"/></text>
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#2a4050" letter-spacing="2" opacity="0">06 / 18<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.276;0.295;0.330;0.331;1" dur="39.6s" repeatCount="indefinite"/></text>
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#2a4050" letter-spacing="2" opacity="0">07 / 18<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.331;0.350;0.385;0.386;1" dur="39.6s" repeatCount="indefinite"/></text>
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#2a4050" letter-spacing="2" opacity="0">08 / 18<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.386;0.405;0.440;0.441;1" dur="39.6s" repeatCount="indefinite"/></text>
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#2a4050" letter-spacing="2" opacity="0">09 / 18<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.441;0.460;0.495;0.496;1" dur="39.6s" repeatCount="indefinite"/></text>
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#2a4050" letter-spacing="2" opacity="0">10 / 18<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.496;0.515;0.550;0.551;1" dur="39.6s" repeatCount="indefinite"/></text>
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#2a4050" letter-spacing="2" opacity="0">11 / 18<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.551;0.570;0.605;0.606;1" dur="39.6s" repeatCount="indefinite"/></text>
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#2a4050" letter-spacing="2" opacity="0">12 / 18<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.606;0.625;0.660;0.661;1" dur="39.6s" repeatCount="indefinite"/></text>
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#2a4050" letter-spacing="2" opacity="0">13 / 18<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.661;0.680;0.715;0.716;1" dur="39.6s" repeatCount="indefinite"/></text>
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#2a4050" letter-spacing="2" opacity="0">14 / 18<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.716;0.735;0.770;0.771;1" dur="39.6s" repeatCount="indefinite"/></text>
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#2a4050" letter-spacing="2" opacity="0">15 / 18<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.771;0.790;0.825;0.826;1" dur="39.6s" repeatCount="indefinite"/></text>
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#2a4050" letter-spacing="2" opacity="0">16 / 18<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.826;0.845;0.880;0.881;1" dur="39.6s" repeatCount="indefinite"/></text>
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#2a4050" letter-spacing="2" opacity="0">17 / 18<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.881;0.900;0.935;0.936;1" dur="39.6s" repeatCount="indefinite"/></text>
+<text x="298" y="378" font-family="'Courier New',monospace" font-size="10" fill="#2a4050" letter-spacing="2" opacity="0">18 / 18<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.936;0.955;0.999;1;1" dur="39.6s" repeatCount="indefinite"/></text>
+
+<!-- ── TOP LABEL ── -->
+<text x="298" y="52" font-family="'Courier New',monospace" font-size="9" fill="#00f5d4" letter-spacing="4" opacity="0.6">◈ I BUILD</text>
+<line x1="355" y1="48" x2="820" y2="48" stroke="#0e2030" stroke-width="1"/>
+
+<!-- ── BOTTOM LABEL ── -->
+<text x="298" y="398" font-family="'Courier New',monospace" font-size="9" fill="#1e3040" letter-spacing="3">NOETIK CORE · BUILDING IN PUBLIC</text>
+
+<!-- ── TOP FADE MASK ── -->
+<rect width="860" height="80" fill="url(#fadeTop)"/>
+<!-- ── BOTTOM FADE MASK ── -->
+<rect y="340" width="860" height="80" fill="url(#fadeBot)"/>
+
+<!-- ── BORDER ── -->
+<rect width="860" height="420" rx="14" fill="none" stroke="#0e2030" stroke-width="1"/>
+<!-- Top accent line -->
+<rect width="860" height="1" rx="0" fill="#00f5d4" opacity="0.2"/>
+
+</g>
+</svg>
